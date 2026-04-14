@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Настройка
 
-1. Скопируйте `.env.example` в `.env`.
+1. Создайте `.env`.
 2. Укажите токен бота:
 
 ```env
