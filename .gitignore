@@ -1,0 +1,21 @@
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# IDE/editor
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Python tooling caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
